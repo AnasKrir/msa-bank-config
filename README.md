@@ -196,7 +196,7 @@ Spring Boot · Spring Cloud · Eureka · Gateway · Config · Feign · Resilienc
 
 ## 📄 Licence
 
-✅Projet sous licence MIT.<br/>
+✅ Projet sous licence MIT.<br/>
 Libre d’utilisation, modification et distribution à des fins pédagogiques.<br/>
 
 © 2025 — Anas KRIR & Adam EL YOURI<br/>
